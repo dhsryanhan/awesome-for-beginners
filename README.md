@@ -32,7 +32,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
-- [TypeScript](#typescript)
+- [TypeScript](#typescript))
 
 ## .NET
 
