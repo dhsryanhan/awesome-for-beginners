@@ -22,7 +22,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Elixir](#elixir)
 - [Go](#go)
 - [Java](#java)
-- [JavaScript](#javascript)
+- [JavaScript](#javascript))
 - [Julia](#julia)
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
